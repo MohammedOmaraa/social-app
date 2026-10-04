@@ -10,8 +10,20 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.1.0",
+    "@heroui/react": "^3.2.6",
+    "@heroui/styles": "^3.2.6",
+    "@hookform/resolvers": "^5.2.2",
+    "@tailwindcss/vite": "^4.1.14",
+    "axios": "^1.12.2",
+    "flowbite": "^3.1.2",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "react-hook-form": "^7.64.0",
+    "react-router-dom": "^7.9.3",
+    "react-spinners": "^0.17.0",
+    "tailwindcss": "^4.1.14",
+    "zod": "^4.1.12"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
@@ -21,6 +33,7 @@
     "eslint": "^9.36.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.22",
+    "generate-react-cli": "^9.0.1",
     "globals": "^16.4.0",
     "vite": "^7.1.7"
   }
